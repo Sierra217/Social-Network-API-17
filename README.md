@@ -18,7 +18,7 @@ social network web application where users can share their thoughts, react to fr
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) (https://opensource.org/licenses/MIT)
 ## Contributors
-
+xpert learning assistant, Teacher and TA's
 ## Tests
 Follow the installation instructions, npm run build, npm start
 ## Question
